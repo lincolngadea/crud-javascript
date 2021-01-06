@@ -1,0 +1,16 @@
+{
+  "name": "javascript-crud",
+  "version": "1.0.0",
+  "description": "- Criar uma lista de pessoas com dados pessoais - A lista deve ter os dados: Nome, email, telefone, foto - Deve ser possível inserir, ler, editar e excluir dados - Os dados devem ser inseridos em banco de dados postgres",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1"
+  }
+}
